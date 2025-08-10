@@ -1,2 +1,5 @@
-# Data_Analytcs_Project_Time-Series-Sales-Forecasting
-Projeto de Data Analytics com previsão de séries temporais de temperatura (CEPAGRI-UNICAMP) para analisar a correlação com vendas de varejo para produtos de piscina. Inclui imputação de dados para os meses em que não foram encontrados valores na fonte de temperatura e visualização de tendências.
+A Data Analytics project analyzes the correlation with retail sales for pool products, including data imputation for missing values and trend visualization.
+
+The analysis is based on historical temperature records, spanning from 2017 to August 2025. Data from 2017 and 2018 was leveraged to support the imputation of missing temperature values in early 2020 and to generate a robust forecast for the final months of 2025.
+
+This project is for training and demonstration purposes only.
