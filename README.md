@@ -4,4 +4,4 @@ The analysis is based on historical temperature records, spanning from 2017 to A
 
 This project is for training and demonstration purposes only.
 
-## This is the first step of th project, the next one will be published as soon as possible.
+## This is the first step of the project, the next one will be published as soon as possible.
